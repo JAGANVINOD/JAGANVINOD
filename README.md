@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/c1d5e9bcfd8bd9c5cd549a25f15a8a72a12a0d55b81e35ed75ffe212435934eb/68747470733a2f2f7472697379612e636f6d2f6d79696d672f6368696c642f5765627369746525323044657369676e2e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm JAGAN VINOD™</h1>
 <h3 align="center">A passionate FULL-STACK developer from KERALA, India</h3><br>
 <img align="right" width="400"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5pNzduNG40NHRoMmVyeGhnZ2VrZWlrdG9oNnp0cDRsamh2aDY3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="logo">
