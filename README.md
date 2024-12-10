@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm JAGAN VINOD™</h1>
 <h3 align="center">A passionate FULL-STACK developer from KERALA, India</h3>
-<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
+<img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" alt="logo">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaganvinod&label=Profile%20views&color=0e75b6&style=flat" alt="jaganvinod" /> </p>
 
