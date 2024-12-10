@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JAGAN VINOD™</h1>
 <h3 align="center">A passionate FULL-STACK developer from KERALA, India</h3>
-<img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" alt="logo">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW53YXVlc3V0eGV6ajZrMHFkMzVuY3d2NWFjbXA4dDRkMm5lZmozciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp)")>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaganvinod&label=Profile%20views&color=0e75b6&style=flat" alt="jaganvinod" /> </p>
