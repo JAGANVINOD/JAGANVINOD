@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MEA[R]N ,CCNA**
 
-- 📫 How to reach me **jaganvinod123@gmail.com**
+- 📫 How to reach me : **jaganvinod123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
